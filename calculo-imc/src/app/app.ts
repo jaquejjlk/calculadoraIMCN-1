@@ -30,9 +30,4 @@ export class App {
       this.resultado = "Obesidade";
     }
   }
-
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> f9bd205a72625d407e58f94fca26f27044e7a9ba
